@@ -25,7 +25,7 @@ namespace lohika.ADM.AAP
         public void Test_Mult5and2_Expected10()
         {
             var res = SimpleCalc.Mult(5, 2);
-            Assert.AreEqual(10, res, 0);
+            Assert.AreEqual(10, res);
         }    
         
         [Test]    

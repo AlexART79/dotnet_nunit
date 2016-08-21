@@ -51,6 +51,7 @@
   <ItemGroup>
     <Compile Include="SimpleCalcBasicTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SimpleCalcParameterizedTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SimpleCalc\SimpleCalc.csproj">
