@@ -1,0 +1,10 @@
+C:\Users\alexa\Documents\Visual Studio 2015\Projects\SimpleCalc\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\alexa\Documents\Visual Studio 2015\Projects\SimpleCalc\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\alexa\Documents\Visual Studio 2015\Projects\SimpleCalc\UnitTestProject1\bin\Debug\nunit.framework.dll
+C:\Users\alexa\Documents\Visual Studio 2015\Projects\SimpleCalc\UnitTestProject1\bin\Debug\SimpleCalc.dll
+C:\Users\alexa\Documents\Visual Studio 2015\Projects\SimpleCalc\UnitTestProject1\bin\Debug\NUnit.System.Linq.dll
+C:\Users\alexa\Documents\Visual Studio 2015\Projects\SimpleCalc\UnitTestProject1\bin\Debug\SimpleCalc.pdb
+C:\Users\alexa\Documents\Visual Studio 2015\Projects\SimpleCalc\UnitTestProject1\bin\Debug\nunit.framework.xml
+C:\Users\alexa\Documents\Visual Studio 2015\Projects\SimpleCalc\UnitTestProject1\obj\Debug\SimpleCalcTests.csprojResolveAssemblyReference.cache
+C:\Users\alexa\Documents\Visual Studio 2015\Projects\SimpleCalc\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\alexa\Documents\Visual Studio 2015\Projects\SimpleCalc\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

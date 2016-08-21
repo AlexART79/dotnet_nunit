@@ -1,0 +1,4 @@
+C:\Users\alexa\Documents\Visual Studio 2015\Projects\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.dll
+C:\Users\alexa\Documents\Visual Studio 2015\Projects\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.pdb
+C:\Users\alexa\Documents\Visual Studio 2015\Projects\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.dll
+C:\Users\alexa\Documents\Visual Studio 2015\Projects\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.pdb
