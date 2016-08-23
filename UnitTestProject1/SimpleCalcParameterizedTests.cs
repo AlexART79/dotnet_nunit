@@ -8,13 +8,23 @@ namespace lohika.ADM.AAP
     [TestFixture]
     class SimpleCalcParameterizedTests
     {
+        [Test, Sequential] // there are also "Combinatorial" and "Pairwise" but they are not relevant for us...
+        public void Test_Add_vithValues(
+            [Range(1,3,1)]double a, 
+            [Values(1,2,3)]double b, 
+            [Values(2,4,5)]double expected)
+        {
+            var res = SimpleCalc.Add(a, b);
+            Assert.AreEqual(expected, res, 0, "Actual result {0} is not equal to {1}", res, expected);
+        }
+
         [Test]
         [TestCase(0, 0, 0)]
         [TestCase(10, 0, 10)]
         [TestCase(-5, 5, 0)]
         [TestCase(-5, -5, -10)]
         [TestCase(999, 1, 1000)]        
-        public void Test_Add(double a, double b, double res)
+        public void Test_Add_withTestCases(double a, double b, double res)
         {
             Assert.True(SimpleCalc.Add(a, b) == res);
         }
