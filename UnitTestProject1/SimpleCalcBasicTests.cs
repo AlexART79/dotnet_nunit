@@ -33,6 +33,6 @@ namespace lohika.ADM.AAP
         {
             var res = SimpleCalc.Div(10, 2);
             Assert.True(4 == res);
-        }
+        }                
     }
 }

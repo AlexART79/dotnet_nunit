@@ -10,9 +10,9 @@ namespace lohika.ADM.AAP
     {
         [Test, Sequential] // there are also "Combinatorial" and "Pairwise" but they are not relevant for us...
         public void Test_Add_vithValues(
-            [Range(1,3,1)]double a, 
+            [Range(1,2,1)]double a, 
             [Values(1,2,3)]double b, 
-            [Values(2,4,5)]double expected)
+            [Values(2,4,6)]double expected)
         {
             var res = SimpleCalc.Add(a, b);
             Assert.AreEqual(expected, res, 0, "Actual result {0} is not equal to {1}", res, expected);
